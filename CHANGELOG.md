@@ -16,6 +16,9 @@
 - Added Dr. Lay-only embedded sleep study evaluation forms to all three Breathe Better Tonight concept landing pages.
 - Updated patient-facing landing-page calls to action to “Take Your Sleep Study Evaluation Now.”
 - Retained the existing Breathe Better Tonight visual design language and standalone assessment pages.
+- Refined the embedded evaluation experience for desktop and mobile with responsive CTA sizing, full-width inputs, touch-friendly controls, and focused form cards.
+- Corrected checkbox sizing and alignment in the responsive embedded evaluation form.
+- Refined compact mobile navigation so the Breathe Better Tonight wordmark and evaluation CTA stay balanced without wrapping.
 
 ## Next
 
