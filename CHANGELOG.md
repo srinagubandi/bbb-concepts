@@ -11,6 +11,12 @@
 - Added patient lead strategy and HCP territory strategy to project documentation.
 - Added explicit production-repository guardrail.
 
+## 2026-09-23
+
+- Added Dr. Lay-only embedded sleep study evaluation forms to all three Breathe Better Tonight concept landing pages.
+- Updated patient-facing landing-page calls to action to “Take Your Sleep Study Evaluation Now.”
+- Retained the existing Breathe Better Tonight visual design language and standalone assessment pages.
+
 ## Next
 
 - Add distinct standalone logo marks for each concept.
